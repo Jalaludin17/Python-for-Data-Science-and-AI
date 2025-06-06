@@ -1,4 +1,4 @@
-# Python-for-Gen-AI
+# Python-for-Data-Science-and-AI
 
 This repository contains Google Colab notebooks from my online Python classes designed for students and professionals interested in Data Science and Artificial Intelligence. Each notebook follows a structured curriculum and provides practical, hands-on experience with Python programming.
 
