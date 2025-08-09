@@ -1,11 +1,11 @@
 ```markdown
 # 🐍 Data Structures and Algorithms (DSA) in Python
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/dsa-in-python?color=blue)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/dsa-in-python)
-![GitHub stars](https://img.shields.io/github/stars/your-username/dsa-in-python?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/dsa-in-python?style=social)
-![License](https://img.shields.io/github/license/your-username/dsa-in-python)
+![GitHub repo size](https://img.shields.io/github/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python?color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python)
+![GitHub stars](https://img.shields.io/github/stars/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python?style=social)
+![License](https://img.shields.io/github/license/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python)
 
 ---
 
