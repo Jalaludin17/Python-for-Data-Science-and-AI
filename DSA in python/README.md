@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🐍 Data Structures and Algorithms (DSA) in Python
 
@@ -77,7 +75,7 @@ Python is beginner-friendly yet powerful:
 
 ```
 
-📦 dsa-in-python
+📦 DSA in python
 ┣ 📂 01 Data Structure and Algorithms
 ┣ 📂 02 Dynamic Array
 ┣ 📂 03 Linked list
@@ -169,6 +167,4 @@ Contributions are welcome! To contribute:
 ---
 
 ⭐ **If you like this repository, don’t forget to give it a star!**
-
-```
 
