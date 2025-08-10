@@ -7,6 +7,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python?style=social)
 ![License](https://img.shields.io/github/license/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python)
 
+
+![image.png](Python-for-Data-Science-and-AI/DSA in python/image.png)
 ---
 
 ## 📚 Introduction
