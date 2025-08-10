@@ -1,4 +1,4 @@
-```markdown
+
 # 🐍 Data Structures and Algorithms (DSA) in Python
 
 ![GitHub repo size](https://img.shields.io/github/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python?color=blue)
@@ -73,7 +73,6 @@ Python is beginner-friendly yet powerful:
 
 ## 📂 Repository Structure
 
-```
 
 📦 DSA in python
 ┣ 📂 01 Data Structure and Algorithms
