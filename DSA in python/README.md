@@ -70,7 +70,7 @@ Python is beginner-friendly yet powerful:
 - `collections` module (`deque`, `Counter`, `defaultdict`)
 
 ---
-
+```
 ## 📂 Repository Structure
 
 
