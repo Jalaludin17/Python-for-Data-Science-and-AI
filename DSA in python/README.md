@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/github/license/Jalaludin17/Python-for-Data-Science-and-AI//DSA-in-python)
 
 
-![image.png](Python-for-Data-Science-and-AI/DSA in python/image.png)
+![image.png](image.png)
 ---
 
 ## 📚 Introduction
